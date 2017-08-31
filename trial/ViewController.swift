@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Hello")
         let mapview = MapViewController()
-        print(mapview) 
+        print(mapview)    
         
     }
 
